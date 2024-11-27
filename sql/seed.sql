@@ -1,4 +1,4 @@
-git -- Seed data for departments
+-- Seed data for departments
 INSERT INTO departments (name) VALUES
 ('Sales'),
 ('Engineering'),
